@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <report_date>07 Mar 2023</report_date>
+    <summary>
+        <input_request>
+            <old_ic>A0001759</old_ic>
+            <new_ic>780528-06-5778</new_ic>
+            <search_name>XXX</search_name>
+            <product_code>SPKCCS</product_code>
+            <subscriber_refno>COMPANY NAME|#|REF-NO: 1234|#|STAFF-NO: 1234|#|STAFF-DEPT: BUSINESS</subscriber_refno>
+        </input_request>
+        <spkc_individual_info>
+            <name>XXXXXXX XXNTI ABAS</name>
+            <old_ic>A0001759</old_ic>
+            <new_ic>660607-01-3980</new_ic>
+            <note>NOTE: The particulars of subject provided by you DO NOT MATCH with the Information in our databank.
+            </note>
+        </spkc_individual_info>
+        <spkc_individual_addresses>
+            <spkc_individual_address>
+                <address>JABATAN BEKALAN AIR NEGERI SEMBILAN (IBU PEJABAT) WISMA NEGERI, TKT.BAWAH BLOK "B" 70503
+                    SEREMBAN, NG.SEMBILAN.</address>
+                <date_capture>-</date_capture>
+                <source_from>ANGKASA</source_from>
+            </spkc_individual_address>
+            <spkc_individual_address>
+                <address>605 TAMAN DESA SRI PONTIAN JALAN ALSAGOFF PONTIAN. 82000 PONTIAN JOHOR</address>
+                <date_capture>21 Sep 2015</date_capture>
+                <source_from>Experian</source_from>
+            </spkc_individual_address>
+        </spkc_individual_addresses>
+        <info_summary>
+            <credit_approval_count>0</credit_approval_count>
+            <credit_pending_count>0</credit_pending_count>
+            <special_attention_account_count>0</special_attention_account_count>
+            <legal_action_banking_count>0</legal_action_banking_count>
+            <existing_facility_count>2</existing_facility_count>
+            <bankruptcy_count>6</bankruptcy_count>
+            <legal_suit_count>3</legal_suit_count>
+            <trade_bureau_count>2</trade_bureau_count>
+            <enquiry_count>0</enquiry_count>
+            <interest_count>7</interest_count>
+            <angkasa_deduction_count>0</angkasa_deduction_count>
+        </info_summary>
+        <i_score>
+            <i_score>600</i_score>
+            <risk_grade>6</risk_grade>
+            <key_factor>
+                <item>Accounts with Delinquency Status</item>
+                <item>Time Since Most Recent Delinquency</item>
+            </key_factor>
+            <grade_format>FAIR</grade_format>
+            <legend_iscore_ccris_gen2 />
+            <i_score_risk_grade_format_consumer />
+        </i_score>
+        <person_company_interests>
+            <person_company_interest>
+                <name>AKSHARA ENTERPRISE</name>
+                <reg_no>1515428</reg_no>
+                <old_reg_no>1515428-D</old_reg_no>
+                <new_reg_no>200403150017</new_reg_no>
+                <type>business</type>
+                <position>SOLE PROPRIETOR</position>
+                <app_date>27 Sep 2004</app_date>
+                <business_expiry>05 Oct 2005</business_expiry>
+                <display_id>1515428</display_id>
+                <last_updated_date>02 Nov 2004</last_updated_date>
+                <nature_businesses>
+                    <nature_business>MANUFACTURING OF READY MIX CONCRETE, TRADING IN BLDG MATERIALS &amp;
+                    </nature_business>
+                    <nature_business>TRANSPORT MGTE AGENCY</nature_business>
+                </nature_businesses>
+                <commenced_date>27 Sep 2004</commenced_date>
+            </person_company_interest>
+            <person_company_interest>
+                <name>CRESCO TRAINING &amp; CONSULTANCY</name>
+                <reg_no>PG0195692</reg_no>
+                <old_reg_no>PG0195692-U</old_reg_no>
+                <new_reg_no>200703063260</new_reg_no>
+                <type>business</type>
+                <position>PARTNER</position>
+                <app_date>06 Apr 2007</app_date>
+                <business_expiry>05 Apr 2014</business_expiry>
+                <display_id>PG0195692 - U</display_id>
+                <class>U</class>
+                <last_updated_date>07 Mar 2014</last_updated_date>
+                <remark_bafia>
+                    <remark>BFM</remark>
+                    <as_at>19 Nov 2014</as_at>
+                    <name>CRESCO TRAINING &amp; CONSULTANCY</name>
+                    <position>PARTNER</position>
+                    <place>KUALA LUMPUR</place>
+                    <court>SESSIONS COURT</court>
+                </remark_bafia>
+                <commenced_date>06 Apr 2007</commenced_date>
+            </person_company_interest>
+            <person_company_interest>
+                <name>FORWARD TOGETHER ENTERPRISE</name>
+                <reg_no>SA0173196</reg_no>
+                <old_reg_no>SA0173196-M</old_reg_no>
+                <new_reg_no>201003247156</new_reg_no>
+                <type>business</type>
+                <app_date>30 Nov 2010</app_date>
+                <business_expiry>29 Nov 2017</business_expiry>
+                <display_id>SA0173196</display_id>
+                <last_updated_date>17 Oct 2013</last_updated_date>
+                <nature_businesses>
+                    <nature_business>MEMBUAT, MENJAHIT DAN MEMBEKAL PAKAIAN, MENCUCI BANGUNAN, </nature_business>
+                    <nature_business>MEMBUAT, MENJAHIT DAN MEMBEKAL PAKAIAN, MENCUCI BANGUNAN, MENCUCI KAWASAN,
+                        CENDERAMATA, BARANG PERCE</nature_business>
+                    <nature_business>MENCUCI KAWASAN, CENDERAMATA, BARANG PERCETAKAN, ALAT </nature_business>
+                    <nature_business>MEMBUAT, MENJAHIT DAN MEMBEKAL PAKAIAN, MENCUCI BANGUNAN, MENCUCI KAWASAN,
+                        CENDERAMATA, BARANG PERCETAKAN, ALAT TULIS, ALATAN SUKAN, PERABOT, BAHAN KIMIA, RACUN RUMPAI DAN
+                        SERANGGA, REKAAN GRAFIK, PENGIKLANAN, IMPORT DAN EKSPORT BARANG KEGUNAAN HARIAN
+                    </nature_business>
+                    <nature_business>TULIS, ALATAN SUKAN, PERABOT, BAHAN KIMIA, RACUN RUMPAI DAN </nature_business>
+                    <nature_business>SERANGGA, REKAAN GRAFIK, PENGIKLANAN, IMPORT DAN EKSPORT BARANG KEGUNAAN HARIAN
+                    </nature_business>
+                </nature_businesses>
+                <commenced_date>30 Nov 2010</commenced_date>
+            </person_company_interest>
+            <person_company_interest>
+                <name>J &amp; J SYSTEM RESOURCES</name>
+                <reg_no>1965121</reg_no>
+                <old_reg_no>1965121-T</old_reg_no>
+                <new_reg_no>201003145717</new_reg_no>
+                <type>business</type>
+                <position>SOLE PROPRIETORSHIP</position>
+                <app_date>08 Jul 2010</app_date>
+                <business_expiry>20 May 2013</business_expiry>
+                <display_id>1965121</display_id>
+                <last_updated_date>24 May 2012</last_updated_date>
+                <nature_businesses>
+                    <nature_business>CONSTRUCTION &amp; RENOVATION WORKS</nature_business>
+                </nature_businesses>
+                <commenced_date>08 Jul 2010</commenced_date>
+            </person_company_interest>
+            <person_company_interest>
+                <name>JB PLASTER CEILING ENTERPRISE</name>
+                <reg_no>UT0003298</reg_no>
+                <old_reg_no>UT0003298-D</old_reg_no>
+                <new_reg_no>201303327172</new_reg_no>
+                <type>business</type>
+                <app_date>30 Dec 2013</app_date>
+                <business_expiry>29 Dec 2017</business_expiry>
+                <display_id>UT0003298 - D</display_id>
+                <class>D</class>
+                <last_updated_date>12 Feb 2014</last_updated_date>
+                <commenced_date>30 Dec 2013</commenced_date>
+            </person_company_interest>
+            <person_company_interest>
+                <name>SAF-T-QUIP SDN. BHD.</name>
+                <local_no>196889</local_no>
+                <old_reg_no>196889-P</old_reg_no>
+                <new_reg_no>199001010315</new_reg_no>
+                <type>company</type>
+                <position>SHAREHOLDER</position>
+                <shares>250,000.00</shares>
+                <share_percentage>33.33</share_percentage>
+                <last_updated_date>13 Jan 2015</last_updated_date>
+                <incorp_date>19 Apr 1990</incorp_date>
+                <display_id>196889 - P</display_id>
+                <paid_up_capital>250,000.00</paid_up_capital>
+                <nature_businesses>
+                    <nature_business>SALE OF INDUSTRIAL SAFETY PRODUCTS</nature_business>
+                </nature_businesses>
+            </person_company_interest>
+            <person_company_interest>
+                <name>STARMAX SIGNCRAFTS</name>
+                <reg_no>2083711</reg_no>
+                <old_reg_no>2083711-K</old_reg_no>
+                <new_reg_no>201103251166</new_reg_no>
+                <type>business</type>
+                <position>SOLE PROPRIETOR</position>
+                <app_date>16 Nov 2011</app_date>
+                <business_expiry>15 Nov 2012</business_expiry>
+                <display_id>2083711</display_id>
+                <last_updated_date>13 Dec 2012</last_updated_date>
+                <nature_businesses>
+                    <nature_business>ADVERTISING</nature_business>
+                </nature_businesses>
+                <commenced_date>16 Nov 2011</commenced_date>
+            </person_company_interest>
+        </person_company_interests>
+        <previous_company_interests>
+            <previous_company_interest>
+                <type>C</type>
+                <reg_no>269656</reg_no>
+                <old_reg_no>269656-U</old_reg_no>
+                <new_reg_no>199301022992</new_reg_no>
+                <display_id>269656 - U</display_id>
+                <name>SECTION M &amp; E CONTRACTOR SDN. BHD.</name>
+                <status>DISSOLVED</status>
+                <position>DIRECTOR</position>
+                <cessation_date />
+                <incorporated_date>12 Jul 1993</incorporated_date>
+                <class>U</class>
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>1010496</reg_no>
+                <old_reg_no>1010496-X</old_reg_no>
+                <new_reg_no>199503032572</new_reg_no>
+                <display_id>1010496</display_id>
+                <name>LIANG FATT MACHINERY HARDWARE TRADING</name>
+                <status>BUSINESS EXPIRED</status>
+                <position />
+                <cessation_date>N/A</cessation_date>
+                <class />
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>1311244</reg_no>
+                <old_reg_no>1311244-D</old_reg_no>
+                <new_reg_no>200103088155</new_reg_no>
+                <display_id>1311244</display_id>
+                <name>AZAG ENTERPRISE</name>
+                <status>BUSINESS EXPIRED</status>
+                <position>ORDINARY PARTNERSHIP</position>
+                <cessation_date>N/A</cessation_date>
+                <class />
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>1323343</reg_no>
+                <old_reg_no>1323343-U</old_reg_no>
+                <new_reg_no>200103118352</new_reg_no>
+                <display_id>1323343</display_id>
+                <name>FOCUS SYNERGY ENTERPRISE</name>
+                <status>BUSINESS EXPIRED</status>
+                <position>SP</position>
+                <cessation_date>N/A</cessation_date>
+                <class />
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>1878502</reg_no>
+                <old_reg_no>1878502-W</old_reg_no>
+                <new_reg_no>200903187100</new_reg_no>
+                <display_id>1878502 - U</display_id>
+                <name>GALAXIE IT SOLUTIONS</name>
+                <status>BUSINESS EXPIRED</status>
+                <position>P</position>
+                <cessation_date>N/A</cessation_date>
+                <class>U</class>
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>737582</reg_no>
+                <old_reg_no>737582-D</old_reg_no>
+                <new_reg_no>198703045985</new_reg_no>
+                <display_id>737582</display_id>
+                <name>UNIVERSAL AIR-COND COMPANY</name>
+                <status>BUSINESS EXPIRED</status>
+                <position>P</position>
+                <cessation_date>N/A</cessation_date>
+                <class />
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>CA0055264</reg_no>
+                <old_reg_no>CA0055264-U</old_reg_no>
+                <new_reg_no>200103106234</new_reg_no>
+                <display_id>CA0055264 - U</display_id>
+                <name>LISOON MARKETING</name>
+                <status>BUSINESS EXPIRED</status>
+                <position>SINGLE OWNER</position>
+                <cessation_date>N/A</cessation_date>
+                <class>U</class>
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>JM0547729</reg_no>
+                <old_reg_no>JM0547729-W</old_reg_no>
+                <new_reg_no>200903177182</new_reg_no>
+                <display_id>JM0547729</display_id>
+                <name>KSJ ENGINEERING TRADING</name>
+                <status>BUSINESS EXPIRED</status>
+                <position>P</position>
+                <cessation_date>N/A</cessation_date>
+                <class />
+            </previous_company_interest>
+            <previous_company_interest>
+                <type>B</type>
+                <reg_no>TR0056886</reg_no>
+                <old_reg_no>TR0056886-X</old_reg_no>
+                <new_reg_no>200503046240</new_reg_no>
+                <display_id>TR0056886</display_id>
+                <name>S TWO N ENTERPRISE</name>
+                <status>BUSINESS EXPIRED</status>
+                <position>P</position>
+                <cessation_date>N/A</cessation_date>
+                <class />
+            </previous_company_interest>
+        </previous_company_interests>
+    </summary>
+    <spga>
+        <spga_status>
+            <monthly_deduction_period>Mar 2023</monthly_deduction_period>
+            <status>Tidak Aktif (C)</status>
+            <remark />
+            <reference_no />
+            <salary_no>6262</salary_no>
+            <name>NORAZMI BIN ABD SAMAD</name>
+            <new_ic>641204055661</new_ic>
+            <old_ic>A0001759</old_ic>
+        </spga_status>
+        <deduction_breakdown />
+        <pending>
+            <regen_keyid>0</regen_keyid>
+            <tot_transi>0</tot_transi>
+            <tot_acdet>00000000.00+</tot_acdet>
+        </pending>
+        <payment_history>
+            <regen_keyid>0</regen_keyid>
+        </payment_history>
+    </spga>
+    <banking_info>
+        <ccris_selected_by_you>
+            <entity_name>XXX</entity_name>
+            <entity_id2>A0001759</entity_id2>
+            <entity_id>780528-06-5778</entity_id>
+            <entity_key>2144447</entity_key>
+        </ccris_selected_by_you>
+        <ccris_banking_warning />
+        <ccris_key_statistics>
+            <earlier_aprv_facility>
+                <item>
+                    <Date>01-01-2000</Date>
+                    <Facility>CREDIT CARD</Facility>
+                    <Total>1</Total>
+                </item>
+            </earlier_aprv_facility>
+            <latest_aprv_facility>
+                <facility_1>
+                    <Date>01-01-2000</Date>
+                    <Facility>CREDIT CARD</Facility>
+                </facility_1>
+                <facility_2 />
+                <facility_3 />
+            </latest_aprv_facility>
+            <secured_facility>
+                <no_of_facility>0</no_of_facility>
+                <total_outstanding_balance>0</total_outstanding_balance>
+                <total_outstanding_against_ttllimit>0</total_outstanding_against_ttllimit>
+                <max_iia_last_12months />
+            </secured_facility>
+            <unsecured_facility>
+                <no_of_facility>2</no_of_facility>
+                <total_outstanding_balance>0</total_outstanding_balance>
+                <total_outstanding_against_ttllimit>0</total_outstanding_against_ttllimit>
+                <max_iia_last_12months>2</max_iia_last_12months>
+            </unsecured_facility>
+            <average_utilize_months>
+                <cc>0.00</cc>
+                <others>0</others>
+            </average_utilize_months>
+            <utilization_12months_chargecard>
+                <min_utilization />
+                <max_utilization />
+            </utilization_12months_chargecard>
+            <no_of_facility_education_loan>0</no_of_facility_education_loan>
+            <no_of_local_lenders>0</no_of_local_lenders>
+            <no_of_foreign_lenders>2</no_of_foreign_lenders>
+        </ccris_key_statistics>
+        <ccris_banking_summary>
+            <summary_credit_report>
+                <approved_count>0</approved_count>
+                <approved_amount>0</approved_amount>
+                <pending_count>0</pending_count>
+                <pending_amount>0</pending_amount>
+            </summary_credit_report>
+            <summary_liabilities>
+                <borrower>
+                    <outstanding>0</outstanding>
+                    <total_limit>200000</total_limit>
+                    <fec_limit>0</fec_limit>
+                </borrower>
+                <legal_action_taken>N</legal_action_taken>
+                <special_attention_account>N</special_attention_account>
+            </summary_liabilities>
+        </ccris_banking_summary>
+        <ccris_banking_details>
+            <start_year>2022</start_year>
+            <end_year>2023</end_year>
+            <month>
+                <item>M</item>
+                <item>F</item>
+                <item>J</item>
+                <item>D</item>
+                <item>N</item>
+                <item>O</item>
+                <item>S</item>
+                <item>A</item>
+                <item>J</item>
+                <item>J</item>
+                <item>M</item>
+                <item>A</item>
+            </month>
+            <outstanding_credit>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>4495419</master_id>
+                            <date>01/01/2000</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>100000</limit>
+                            <legal_status />
+                            <legal_status_date />
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>F</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item>
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date />
+                                <facility>CRDTCARD</facility>
+                                <total_outstanding_balance>0</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>0</total_outstanding_balance_bnm>
+                                <balance_updated_date>28/02/2023</balance_updated_date>
+                                <installment_amount>0</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type />
+                                <credit_position>
+                                    <item />
+                                    <item>0</item>
+                                    <item>1</item>
+                                    <item>2</item>
+                                    <item>2</item>
+                                    <item>2</item>
+                                    <item>1</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code />
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>7739051</master_id>
+                            <date>01/01/2000</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>100000</limit>
+                            <legal_status />
+                            <legal_status_date />
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>F</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item>
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date />
+                                <facility>CRDTCARD</facility>
+                                <total_outstanding_balance>0</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>0</total_outstanding_balance_bnm>
+                                <balance_updated_date>28/02/2023</balance_updated_date>
+                                <installment_amount>0</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type />
+                                <credit_position>
+                                    <item />
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>1</item>
+                                    <item>2</item>
+                                    <item>2</item>
+                                    <item>2</item>
+                                    <item>1</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code />
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+            </outstanding_credit>
+            <credit_application />
+            <special_attention_account />
+            <facilities_remark>
+                <item><code>CRDTCARD</code>
+                    <desc>CREDIT CARD</desc>
+                </item>
+            </facilities_remark>
+            <status_remark>
+                <item><code>O</code>
+                    <desc>Outstanding</desc>
+                </item>
+            </status_remark>
+            <legal_remark />
+        </ccris_banking_details>
+    </banking_info>
+    <litigation_info>
+        <legal_suit_by_regno>
+            <item>
+                <defendant_name>XXXXXXX XXNTI ABA</defendant_name>
+                <status_group>CPD</status_group>
+                <suit_id>3310417</suit_id>
+                <court>HC</court>
+                <old_ic>NA</old_ic>
+                <new_ic>660607-01-3980</new_ic>
+                <case_settled>N</case_settled>
+                <case_withdrawn>N</case_withdrawn>
+                <special_remark>PENDING COURT</special_remark>
+                <defendant_address>21 JLN 6/7, TMN DAGANG 68000, AMPANG, SELANGOR</defendant_address>
+                <case_no>1112-1112A-2019 HIGH COURT KUALA LUMPUR</case_no>
+                <solicitor>KINGTON &amp; TAN</solicitor>
+                <solicitor_address>SUITE A-10-1, MEGAN AVENUE 1, 189 JLN TUN RAZAK 50400 KUALA LUMPUR
+                </solicitor_address>
+                <solicitor_tel>03-27751081</solicitor_tel>
+                <solicitor_fax>03-21613667</solicitor_fax>
+                <solicitor_email>office@kington-tan.com</solicitor_email>
+                <solicitor_ref>20061107</solicitor_ref>
+                <suit_ref>COURT LIST / 07 Nov 2006</suit_ref>
+                <summon_date>01 Jan 2019</summon_date>
+                <hearing_date>01 Jan 2019</hearing_date>
+                <judgement_date>01 Jan 2019</judgement_date>
+                <wss_date>01 Oct 2020</wss_date>
+                <go_date>01 Oct 2020</go_date>
+                <jds_date>01 Oct 2020</jds_date>
+                <jic_date>01 Jan 2022</jic_date>
+                <jid_date>01 Jan 2022</jid_date>
+                <pending_status_as_at_date>01 Jan 2022</pending_status_as_at_date>
+            </item>
+            <item>
+                <defendant_name>XXXXXXX XXNTI ABA</defendant_name>
+                <status_group>CPD</status_group>
+                <suit_id>3310273</suit_id>
+                <court>HC</court>
+                <old_ic>NA</old_ic>
+                <new_ic>660607-01-3980</new_ic>
+                <case_settled>N</case_settled>
+                <case_withdrawn>N</case_withdrawn>
+                <defendant_address>21 JLN 6/7, TMN DAGANG 68000, AMPANG, SELANGOR</defendant_address>
+                <case_no>1112-1112A-2019 HIGH COURT KUALA LUMPUR</case_no>
+                <solicitor>KINGTON &amp; TAN</solicitor>
+                <solicitor_address>SUITE A-10-1, MEGAN AVENUE 1, 189 JLN TUN RAZAK 50400 KUALA LUMPUR
+                </solicitor_address>
+                <solicitor_tel>03-27751081</solicitor_tel>
+                <solicitor_fax>03-21613667</solicitor_fax>
+                <solicitor_email>office@kington-tan.com</solicitor_email>
+                <solicitor_ref>20061107</solicitor_ref>
+                <plaintiff_details>
+                    <plaintiff_detail>
+                        <plaintiff>XXX</plaintiff>
+                        <icppregno>700303-12-5394</icppregno>
+                        <plaintiff_type>I</plaintiff_type>
+                        <plaintiff_address>123 51200 KUALA LUMPUR KUALA LUMPUR</plaintiff_address>
+                    </plaintiff_detail>
+                </plaintiff_details>
+                <claim_details>
+                    <claim_detail>
+                        <claim_nature>CONTRACT &amp; SERVICE RELATED</claim_nature>
+                        <amount_claim>1,480,167.59</amount_claim>
+                    </claim_detail>
+                </claim_details>
+                <suit_ref>COURT LIST / 07 Nov 2006</suit_ref>
+                <summon_date>01 Jan 2019</summon_date>
+                <hearing_date>01 Jan 2019</hearing_date>
+                <judgement_date>01 Jan 2019</judgement_date>
+                <jic_date>01 Jan 2022</jic_date>
+                <jid_date>01 Jan 2022</jid_date>
+                <pending_status_date>01 Oct 2020</pending_status_date>
+            </item>
+        </legal_suit_by_regno>
+        <legal_suit_proclamation_by_regno>
+            <CWS>
+                <item>
+                    <defendant_name>XXXXXXX XXNTI ABA</defendant_name>
+                    <status_group>CWS</status_group>
+                    <suit_id>3310418</suit_id>
+                    <court>HC</court>
+                    <property_location>50, JLN 2/B/ SEKSYEN 5, BDR RUNCHING 43500 SEMENYIH SELANGOR MALAYSIA
+                    </property_location>
+                    <property_description>Shophouse</property_description>
+                    <auctioneer>VJ RESOURCES AUCTIONEER (03-22732620)</auctioneer>
+                    <reserve_price1>190,000.00</reserve_price1>
+                    <auction_date1>26 Nov 2014</auction_date1>
+                    <reserve_price2>190,000.00</reserve_price2>
+                    <auction_date2>13 Nov 2018</auction_date2>
+                    <reserve_price3>190,000.00</reserve_price3>
+                    <auction_date3>13 Nov 2019</auction_date3>
+                    <suit_ref1>MALAY MAIL</suit_ref1>
+                    <suit_ref_date1>13 Nov 2014</suit_ref_date1>
+                    <suit_ref2>HARIAN METRO</suit_ref2>
+                    <suit_ref_date2>13 Nov 2018</suit_ref_date2>
+                    <suit_ref3>BERITA HARIAN</suit_ref3>
+                    <suit_ref_date3>13 Nov 2019</suit_ref_date3>
+                    <foreclosure_case>1</foreclosure_case>
+                    <old_ic>NA</old_ic>
+                    <new_ic>660607-01-3980</new_ic>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                    <special_remark>123</special_remark>
+                    <defendant_address>21 JLN 6/7, TMN DAGANG 68000, AMPANG, SELANGOR</defendant_address>
+                    <case_no>2-28-269-03-2012 HIGH COURT MALACCA</case_no>
+                    <solicitor>H S CHEW &amp; CO.</solicitor>
+                    <solicitor_address>543A TMN MELAKA RAYA, 1ST FLR 75000, MALACCA</solicitor_address>
+                    <solicitor_tel>06-2838293/7278</solicitor_tel>
+                    <solicitor_fax>06-2838368</solicitor_fax>
+                    <solicitor_email>wkchew@tm.net.my</solicitor_email>
+                    <solicitor_ref>HSC/L/11/33/2-2012</solicitor_ref>
+                    <suit_ref>Others / 19 Oct 2012</suit_ref>
+                    <summon_date>04 Dec 2018</summon_date>
+                    <hearing_date>17 Nov 2018</hearing_date>
+                    <judgement_date>01 Jan 2022</judgement_date>
+                    <wss_date>01 Jan 2022</wss_date>
+                    <go_date>01 Jan 2022</go_date>
+                    <jds_date>01 Jan 2022</jds_date>
+                    <jic_date>01 Jan 2022</jic_date>
+                    <jid_date>01 Jan 2022</jid_date>
+                    <withdrawn_status_date>01 Jan 2022</withdrawn_status_date>
+                </item>
+            </CWS>
+        </legal_suit_proclamation_by_regno>
+        <others_known_legal_suit />
+        <legal_suit_by_plaintiff />
+        <person_bankruptcy>
+            <remark>Remark: The Bankruptcy adjudication order status may have been discharged. Please conduct Official
+                Assignee Search to confirm the current status.</remark>
+            <case>
+                <item>
+                    <status_group>DAO</status_group>
+                    <defendant_name> XXXXXXX XXNTI ABAS</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>660607-01-3980</new_ic>
+                    <special_remark>Bankrupt</special_remark>
+                    <case_no>29-NCC-210-2014 HIGH COURT TAWAU</case_no>
+                    <creditors>
+                        <creditor>
+                            <name>MALAYAN BANKING BHD</name>
+                            <type>C</type>
+                            <reg_no>3813</reg_no>
+                        </creditor>
+                        <creditor>
+                            <name>XXXXXXXXXXX</name>
+                            <type>I</type>
+                            <new_ic>480515-06-5176</new_ic>
+                            <old_ic>1475528</old_ic>
+                        </creditor>
+                    </creditors>
+                    <solicitor_code>146</solicitor_code>
+                    <solicitor>YONG &amp; RAKAN-RAKAN</solicitor>
+                    <solicitor_address>NO. 12-1 (1st FLOOR) JALAN TIARA 2D/KU1 BANDAR BARU KLANG 41150 KELANG, SELANGOR
+                    </solicitor_address>
+                    <solicitor_tel>03-33427207/9</solicitor_tel>
+                    <solicitor_fax>03-33414202</solicitor_fax>
+                    <solicitor_email>yrr@tm.net.my</solicitor_email>
+                    <solicitor_ref>MBB(LMCKL)AM(BN)/22828/2008/G(3)GTL/NURUL </solicitor_ref>
+                    <notice_date>03 Dec 2011</notice_date>
+                    <notice_ref>BERITA HARIAN 18 May 2011</notice_ref>
+                    <petition_date>12 Nov 2019</petition_date>
+                    <petition_ref>AB</petition_ref>
+                    <hearing_date>12 Nov 2017</hearing_date>
+                    <adjudication_order_date>12 Nov 2017</adjudication_order_date>
+                    <adjudication_order_ref>JABATAN INSOLVENSI MALAYSIA (JIM) 12 Nov 2017</adjudication_order_ref>
+                    <discharge_date>12 Nov 2021</discharge_date>
+                    <discharge_date_ref> 12 Nov 2021</discharge_date_ref>
+                    <receiving_ref>11 May 2020</receiving_ref>
+                    <case_status>
+                        <status>WITHDRAWN</status>
+                        <withdrawn_letter_dated>11 Oct 2020</withdrawn_letter_dated>
+                    </case_status>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                </item>
+                <item>
+                    <status_group>ROD</status_group>
+                    <defendant_name> XXXXXXX XXNTI ABAS</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>660607-01-3980</new_ic>
+                    <case_no>29-NCC-210-2014 HIGH COURT TAWAU</case_no>
+                    <adjudication_order_ref>JABATAN INSOLVENSI MALAYSIA (JIM)</adjudication_order_ref>
+                    <receiving_date>01 Oct 2020</receiving_date>
+                    <receiving_ref>REGISTRAR</receiving_ref>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                </item>
+                <item>
+                    <status_group>DAO</status_group>
+                    <defendant_name> XXXXXXX XXNTI ABAS</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>660607-01-3980</new_ic>
+                    <special_remark>Bankrupt</special_remark>
+                    <case_no>29-NCC-210-2014 HIGH COURT TAWAU</case_no>
+                    <solicitor_code>146</solicitor_code>
+                    <solicitor>YONG &amp; RAKAN-RAKAN</solicitor>
+                    <solicitor_address>NO. 12-1 (1st FLOOR) JALAN TIARA 2D/KU1 BANDAR BARU KLANG 41150 KELANG, SELANGOR
+                    </solicitor_address>
+                    <solicitor_tel>03-33427207/9</solicitor_tel>
+                    <solicitor_fax>03-33414202</solicitor_fax>
+                    <solicitor_email>yrr@tm.net.my</solicitor_email>
+                    <solicitor_ref>MBB(LMCKL)AM(BN)/22828/2008/G(3)GTL/NURUL </solicitor_ref>
+                    <notice_date>03 Dec 2011</notice_date>
+                    <notice_ref>BERITA HARIAN 18 May 2011</notice_ref>
+                    <petition_date>12 Nov 2019</petition_date>
+                    <petition_ref>AB</petition_ref>
+                    <hearing_date>12 Nov 2017</hearing_date>
+                    <adjudication_order_date>12 Nov 2017</adjudication_order_date>
+                    <adjudication_order_ref>JABATAN INSOLVENSI MALAYSIA (JIM) 12 Nov 2017</adjudication_order_ref>
+                    <discharge_date>12 Nov 2021</discharge_date>
+                    <discharge_date_ref> 12 Nov 2021</discharge_date_ref>
+                    <receiving_ref>11 May 2020</receiving_ref>
+                    <case_status>
+                        <status>PENDING</status>
+                        <pending_status_date>11 Oct 2020</pending_status_date>
+                    </case_status>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                    <remark>
+                        <item>NOTICE EXTEND UNTIL 14/02/2015</item>
+                        <item>NOTICE EXTEND UNTIL 14/02/2015</item>
+                    </remark>
+                </item>
+                <item>
+                    <status_group>AOD</status_group>
+                    <defendant_name> XXXXXXX XXNTI ABAS</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>660607-01-3980</new_ic>
+                    <case_no>29-NCC-210-2014 HIGH COURT TAWAU</case_no>
+                    <adjudication_order_date>12 Nov 2019</adjudication_order_date>
+                    <adjudication_order_ref>JABATAN INSOLVENSI MALAYSIA (JIM)</adjudication_order_ref>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                </item>
+                <item>
+                    <status_group>AOD</status_group>
+                    <defendant_name> XXXXXXX XXNTI ABAS</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>660607-01-3980</new_ic>
+                    <case_no>29-NCC-210-2014 HIGH COURT TAWAU</case_no>
+                    <adjudication_order_date>12 Nov 2019</adjudication_order_date>
+                    <adjudication_order_ref>JABATAN INSOLVENSI MALAYSIA (JIM)</adjudication_order_ref>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                </item>
+                <item>
+                    <status_group>CWS</status_group>
+                    <defendant_name> XXXXXXX XXNTI ABAS</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>660607-01-3980</new_ic>
+                    <special_remark>Bankrupt</special_remark>
+                    <case_no>29-NCC-210-2014 HIGH COURT TAWAU</case_no>
+                    <solicitor_code>146</solicitor_code>
+                    <solicitor>YONG &amp; RAKAN-RAKAN</solicitor>
+                    <solicitor_address>NO. 12-1 (1st FLOOR) JALAN TIARA 2D/KU1 BANDAR BARU KLANG 41150 KELANG, SELANGOR
+                    </solicitor_address>
+                    <solicitor_tel>03-33427207/9</solicitor_tel>
+                    <solicitor_fax>03-33414202</solicitor_fax>
+                    <solicitor_email>yrr@tm.net.my</solicitor_email>
+                    <solicitor_ref>MBB(LMCKL)AM(BN)/22828/2008/G(3)GTL/NURUL </solicitor_ref>
+                    <notice_date>03 Dec 2011</notice_date>
+                    <notice_ref>BERITA HARIAN 18 May 2011</notice_ref>
+                    <petition_date>12 Nov 2019</petition_date>
+                    <petition_ref>AB</petition_ref>
+                    <hearing_date>12 Nov 2017</hearing_date>
+                    <adjudication_order_date>12 Nov 2017</adjudication_order_date>
+                    <adjudication_order_ref>JABATAN INSOLVENSI MALAYSIA (JIM) 12 Nov 2017</adjudication_order_ref>
+                    <discharge_date>12 Nov 2021</discharge_date>
+                    <discharge_date_ref> 12 Nov 2021</discharge_date_ref>
+                    <receiving_ref>11 May 2020</receiving_ref>
+                    <case_status>
+                        <status>WITHDRAWN</status>
+                        <withdrawn_status_date>11 Oct 2020</withdrawn_status_date>
+                    </case_status>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                </item>
+            </case>
+            <oa_date>29 Dec 2009</oa_date>
+            <oldic_oa_date>A0001759</oldic_oa_date>
+            <newic_oa_date>660607-01-3980</newic_oa_date>
+        </person_bankruptcy>
+    </litigation_info>
+    <trade_bureau>
+        <trade_bureau_entity_details>
+            <tb_credit_reference>
+                <item>
+                    <subject>XXXXX</subject>
+                    <new_ic>740324-18-3631</new_ic>
+                    <creditor_name>TABUNG KUMPULAN WANG BIASISWA NEGERI SELANGOR</creditor_name>
+                    <creditor_telno>03-55447634</creditor_telno>
+                    <ref_no>40656/785</ref_no>
+                    <status>NOD</status>
+                    <debt_type>LOAN EXTENDED</debt_type>
+                    <payment_aging>OVER 180 DAYS</payment_aging>
+                    <remark>DEFAULTED / ACCOUNT TERMINATED</remark>
+                    <status_date>16 NOV 2011</status_date>
+                    <amount>2,500.00</amount>
+                    <industry>EDUCATION</industry>
+                    <guarantor_details>
+                        <guarantor_detail>
+                            <guarantor_ic>590828-10-6079</guarantor_ic>
+                            <guarantor_name>KOAKEELAN A/L V KARUPPIAH</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>771203-10-1101</guarantor_ic>
+                            <guarantor_name>XXXX XXXXX KHAL</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>660607-01-3980</guarantor_ic>
+                            <guarantor_name>XXXXXXX XXNTI ABAS</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>855037</guarantor_ic>
+                            <guarantor_name>KAROMECH SDN. BHD.</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>670508-08-5352</guarantor_ic>
+                            <guarantor_name>SXXXXX BXXXX RXXXX</guarantor_name>
+                        </guarantor_detail>
+                    </guarantor_details>
+                </item>
+                <item>
+                    <subject>XXX</subject>
+                    <new_ic>660607-01-3980</new_ic>
+                    <creditor_telno>016-221 1800</creditor_telno>
+                    <creditor_name>DIGI TELECOMMUNICATIONS SDN BHD</creditor_name>
+                    <solicitor_name>DENNIS NIK &amp; WONG</solicitor_name>
+                    <solicitor_telno>07-2353808</solicitor_telno>
+                    <ref_no>10111699</ref_no>
+                    <debt_type>SERVICES RENDERED</debt_type>
+                    <credit_term>24 DAYS</credit_term>
+                    <as_at_date>07 NOV 2014</as_at_date>
+                    <payment_aging>DEFAULTED / ACCOUNT TERMINATED</payment_aging>
+                    <status_date>29 AUG 2014</status_date>
+                    <amount>1,000.00</amount>
+                    <registration_no>AGH001</registration_no>
+                    <model>ARIEL</model>
+                    <chassis_no>EE123</chassis_no>
+                    <engine_no>A00712377</engine_no>
+                </item>
+            </tb_credit_reference>
+            <tb_payment>
+                <payment_profile />
+                <payment_trend>
+                    <trend />
+                </payment_trend>
+                <p2p_fintech>
+                    <start_year>2022</start_year>
+                    <end_year>2023</end_year>
+                    <month>
+                        <item>M</item>
+                        <item>F</item>
+                        <item>J</item>
+                        <item>D</item>
+                        <item>N</item>
+                        <item>O</item>
+                        <item>S</item>
+                        <item>A</item>
+                        <item>J</item>
+                        <item>J</item>
+                        <item>M</item>
+                        <item>A</item>
+                    </month>
+                    <count_fintect>3</count_fintect>
+                    <show_note_fintect>0</show_note_fintect>
+                    <legend>
+                        <capacity>
+                            <item><code>OWN</code>
+                                <desc>OWN</desc>
+                            </item>
+                            <item><code>JOINT</code>
+                                <desc>P2P LENDER</desc>
+                            </item>
+                        </capacity>
+                        <acc_status>
+                            <item><code>O</code>
+                                <desc>OUTSTANDING</desc>
+                            </item>
+                            <item><code>W</code>
+                                <desc>WRITTEN-OFF</desc>
+                            </item>
+                        </acc_status>
+                        <lender_type>
+                            <item><code>COOP</code>
+                                <desc>KOPERASI / CO-OPERATIVE</desc>
+                            </item>
+                            <item><code>CRLS</code>
+                                <desc>CREDIT &amp; LEASING</desc>
+                            </item>
+                        </lender_type>
+                        <facility>
+                            <item><code>PL</code>
+                                <desc>PERSONAL LOAN</desc>
+                            </item>
+                        </facility>
+                        <repayment_term>
+                            <item><code>MTH</code>
+                                <desc>MONTHLY</desc>
+                            </item>
+                        </repayment_term>
+                        <collateral_type>
+                            <item />
+                            <item><code>CLE</code>
+                                <desc>CLEAN</desc>
+                            </item>
+                        </collateral_type>
+                        <status>
+                            <item />
+                        </status>
+                        <sub_code />
+                    </legend>
+                    <details>
+                        <OUT>
+                            <item>
+                                <acc_status>O</acc_status>
+                                <fintech_id>2779</fintech_id>
+                                <aprv_date>02/12/2015</aprv_date>
+                                <capacity>OWN</capacity>
+                                <lender_type>COOP</lender_type>
+                                <facility>PL</facility>
+                                <credit_limit>10000.00</credit_limit>
+                                <instalment_amount>119.00</instalment_amount>
+                                <instalment_tenor>120</instalment_tenor>
+                                <date_balance_updated>31/08/2022</date_balance_updated>
+                                <loan_outstanding>10273.00</loan_outstanding>
+                                <repayment_term>MTH</repayment_term>
+                                <collateral_type>CLEAN</collateral_type>
+                                <status>NPL</status>
+                                <status_update_date />
+                                <conduction>
+                                    <item />
+                                    <item />
+                                    <item>1</item>
+                                    <item>1</item>
+                                    <item>1</item>
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                </conduction>
+                            </item>
+                            <item>
+                                <acc_status>O</acc_status>
+                                <fintech_id>2806</fintech_id>
+                                <aprv_date />
+                                <capacity>JOINT</capacity>
+                                <lender_type>CRLS</lender_type>
+                                <facility>TL</facility>
+                                <credit_limit>6000.00</credit_limit>
+                                <instalment_amount>210.00</instalment_amount>
+                                <instalment_tenor>48</instalment_tenor>
+                                <date_balance_updated>31/12/2022</date_balance_updated>
+                                <loan_outstanding>1000.00</loan_outstanding>
+                                <repayment_term>MTH</repayment_term>
+                                <collateral_type>CLE</collateral_type>
+                                <status>O</status>
+                                <status_update_date />
+                                <conduction>
+                                    <item />
+                                    <item />
+                                    <item>1</item>
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                </conduction>
+                            </item>
+                        </OUT>
+                        <WO>
+                            <item>
+                                <acc_status>W</acc_status>
+                                <fintech_id>2778</fintech_id>
+                                <aprv_date>02/12/2022</aprv_date>
+                                <capacity>JOINT</capacity>
+                                <lender_type>CRLS</lender_type>
+                                <facility>TL</facility>
+                                <credit_limit />
+                                <instalment_amount />
+                                <instalment_tenor />
+                                <date_balance_updated>31/12/2022</date_balance_updated>
+                                <loan_outstanding />
+                                <repayment_term />
+                                <collateral_type />
+                                <status>O</status>
+                                <status_update_date />
+                                <conduction>
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                    <item />
+                                </conduction>
+                            </item>
+                        </WO>
+                    </details>
+                </p2p_fintech>
+                <show_note>yes</show_note>
+                <show_note_fintect>no</show_note_fintect>
+            </tb_payment>
+        </trade_bureau_entity_details>
+    </trade_bureau>
+    <aml_sanction>
+        <aml_sanction_list_individual>
+            <BAFIA>19 Nov 2014</BAFIA>
+            <AMLATFA>19 Nov 2014</AMLATFA>
+            <MSBA>19 Nov 2014</MSBA>
+            <KDN>01 Sep 2019</KDN>
+            <UN>01 Sep 2019</UN>
+            <amlSanctionList>
+                <item>
+                    <No>1</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>BAFIA</TraceCase>
+                    <CompanyName>GALAXIE IT SOLUTIONS</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>2</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>AML/CFT</TraceCase>
+                    <CompanyName>GALAXIE IT SOLUTIONS</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>3</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>MSBA</TraceCase>
+                    <CompanyName>GALAXIE IT SOLUTIONS</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>4</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>BAFIA</TraceCase>
+                    <CompanyName>MANSOR SHAH ENTERPRISE</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>5</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>AML/CFT</TraceCase>
+                    <CompanyName>MANSOR SHAH ENTERPRISE</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>6</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>BAFIA</TraceCase>
+                    <CompanyName>CRESCO TRAINING &amp; CONSULTANCY</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>7</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>AML/CFT</TraceCase>
+                    <CompanyName>CRESCO TRAINING &amp; CONSULTANCY</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>8</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>BAFIA</TraceCase>
+                    <CompanyName>LISOON MARKETING</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>9</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>AML/CFT</TraceCase>
+                    <CompanyName>LISOON MARKETING</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>10</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>BAFIA</TraceCase>
+                    <CompanyName>Y.S.TAN ENTERPRISE</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>11</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXXXXX XXNTI ABA</IndividualName>
+                    <TraceCase>AML/CFT</TraceCase>
+                    <CompanyName>Y.S.TAN ENTERPRISE</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>12</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXX</IndividualName>
+                    <TraceCase>BAFIA</TraceCase>
+                    <CompanyName>AR TANJUNG SDN. BHD.</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>13</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXX</IndividualName>
+                    <TraceCase>AML/CFT</TraceCase>
+                    <CompanyName>AR TANJUNG SDN. BHD.</CompanyName>
+                    <LastUpdated>19 Nov 2014</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>14</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXX</IndividualName>
+                    <TraceCase>KDN</TraceCase>
+                    <CompanyName />
+                    <LastUpdated>01 Sep 2019</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>15</No>
+                    <ICPP>660607-01-3980</ICPP>
+                    <IndividualName>XXXX</IndividualName>
+                    <TraceCase>UN</TraceCase>
+                    <CompanyName />
+                    <LastUpdated>01 Sep 2019</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+            </amlSanctionList>
+        </aml_sanction_list_individual>
+    </aml_sanction>
+    <enquiry>
+        <previous_enquiry>
+            <finance>
+                <item>
+                    <year>2023</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2022</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2021</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+            </finance>
+            <commercial>
+                <item>
+                    <year>2023</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2022</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2021</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+            </commercial>
+        </previous_enquiry>
+    </enquiry>
+    <legend_gen2>
+        <ccris_iscore_legend_gen2 />
+    </legend_gen2>
+    <end>
+        <subscriber_name>RED ONE UAT</subscriber_name>
+        <username>RED ONE UAT</username>
+        <order_date>2023-03-07</order_date>
+        <order_time>10:41:43</order_time>
+        <userid>REDUAT1</userid>
+        <order_id>119082116</order_id>
+    </end>
+</xml>
