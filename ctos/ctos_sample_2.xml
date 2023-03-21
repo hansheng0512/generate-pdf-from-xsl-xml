@@ -1,0 +1,771 @@
+<report version="5.5.0" xmlns="http://ws.cmctos.com.my/ctosnet/response">
+  <enq_report id="BB-3251-20230320105809" report_type="CTOS" title="CTOS ENQUIRY">
+    <header>
+      <user id="pcdt_xml">parkson credit</user>
+      <company id="XXXX_UAT">XXXX_UAT</company>
+      <account>XXXX_UAT</account>
+      <tel/>
+      <fax/>
+      <enq_date>2023-03-20</enq_date>
+      <enq_time>10:58:09</enq_time>
+      <enq_status code="1">SUCCESS</enq_status>
+    </header>
+    <summary>
+      <enq_sum ptype="I" pcode="" seq="1">
+        <name>XXX XXXXX</name>
+        <ic_lcno/>
+        <nic_brno>123456789012</nic_brno>
+        <stat>1010</stat>
+        <dd_index>0000</dd_index>
+        <mphone_nos/>
+        <ref_no/>
+        <dist_code>PENANG BRANCH</dist_code>
+        <purpose code="200">Credit evaluation/account opening on subject/directors/shareholder with consent /due diligence on AMLA compliance</purpose>
+        <state code=""/>
+        <country code=""/>
+        <include_consent>0</include_consent>
+        <include_ctos>1</include_ctos>
+        <include_trex>0</include_trex>
+        <include_ccris sum="1">1</include_ccris>
+        <include_dcheq>0</include_dcheq>
+        <include_ccris_supp>0</include_ccris_supp>
+        <include_fico>0</include_fico>
+        <include_sfi>0</include_sfi>
+        <include_ssm>0</include_ssm>
+        <include_ssm_retention>0</include_ssm_retention>
+        <include_angkasa>0</include_angkasa>
+        <include_ie>0</include_ie>
+        <include_ci>0</include_ci>
+        <include_etr_plus>0</include_etr_plus>
+        <confirm_entity>6901020</confirm_entity>
+        <enq_status code="1">SUCCESS</enq_status>
+        <enq_code code="3">CTOS Report with BPH</enq_code>
+      </enq_sum>
+    </summary>
+    <enquiry seq="1">
+      <section_summary>
+        <ctos>
+          <bankruptcy status="0"/>
+          <legal total="0" value="0"/>
+          <legal_personal_capacity total="0" value="0"/>
+          <legal_non_personal_capacity total="0" value="0"/>
+        </ctos>
+        <tr>
+          <trex_ref negative="0" positive="0"/>
+        </tr>
+        <ccris>
+          <application total="0" approved="0" pending="0"/>
+          <facility total="3" arrears="1" value="70480.00"/>
+          <special_attention accounts="0"/>
+        </ccris>
+        <dcheqs entity="0"/>
+      </section_summary>
+      <section_a data="true" title="SECTION A - IDENTITY NUMBER VERIFICATION">
+        <record rpttype="Id" seq="1">
+          <name match="1">XXX XXXXX</name>
+          <ic_lcno/>
+          <nic_brno match="1">123456789012</nic_brno>
+          <addr>XXXXXXX XXXXXXXXXX XXXXXXXXXX XXXXXXXXXXX X</addr>
+          <addr_breakdown>
+            <addr1/>
+            <addr2/>
+            <addr3/>
+            <addr4/>
+            <city>XXXXXX XXXX</city>
+            <state>XXXXXXXX</state>
+            <postcode>12345</postcode>
+            <country>MALAYSIA</country>
+            <last_updated_date/>
+          </addr_breakdown>
+          <ccris_addresses/>
+          <source>NRD</source>
+          <cpo_date>01-01-2021</cpo_date>
+          <remark/>
+          <nationality>MALAYSIAN</nationality>
+          <birth_date>15-09-1966</birth_date>
+        </record>
+      </section_a>
+      <section_b title="SECTION B - INTERNAL LIST" data="true">
+        <history seq="1" rpttype="EH" year="2023">
+          <period month="1">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="2">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="3">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="4">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="5">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="6">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="7">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="8">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="9">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="10">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="11">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="12">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+        </history>
+        <history seq="2" rpttype="EH" year="2022">
+          <period month="1">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="2">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="3">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="4">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="5">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="6">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="7">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="8">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="9">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="10">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="11">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="12">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+        </history>
+      </section_b>
+      <section_c title="SECTION C - DIRECTORSHIPS AND BUSINESS INTERESTS" data="true">
+        <record rpttype="IF" seq="1">
+          <company_name>COMP TECH SDN BHD</company_name>
+          <additional_registration_no>201701109154</additional_registration_no>
+          <local>2109154</local>
+          <locala>A</locala>
+          <object>METAL SUPPLY</object>
+          <incdate>10-10-2017</incdate>
+          <lastdoc>30-12-2020</lastdoc>
+          <appoint>30-10-2017</appoint>
+          <resign/>
+          <name>XXX XXXXX</name>
+          <ic_lcno/>
+          <nic_brno>123456789012</nic_brno>
+          <addr/>
+          <position>DIRECTOR  /  SHARE HOLDER</position>
+          <cpo_date>15-09-2021</cpo_date>
+          <paidup>500000</paidup>
+          <shares>355600</shares>
+          <total_shares_percentage>44.45</total_shares_percentage>
+          <remark/>
+          <protif_after_tax>11491414.00</protif_after_tax>
+          <latest_financial_year>30-06-2018</latest_financial_year>
+          <status>EXISTING</status>
+        </record>
+      </section_c>
+      <section_d title="SECTION D" data="false"/>
+      <section_d2 title="SECTION D2 - SUBJECT AS PLAINTIFF" data="false"/>
+      <section_d4 title="SECTION D4 - NON PERSONAL CAPACITY" data="false"/>
+      <section_ccris title="SECTION CCRIS" data="true">
+        <summary entity_key="6901020" entity_warning="Pending Verification" fi_code="">
+          <application>
+            <approved count="0">0</approved>
+            <pending count="0">0</pending>
+          </application>
+          <liabilities>
+            <borrower total_limit="0" fec_limit="0">0</borrower>
+            <guarantor total_limit="0" fec_limit="0"/>
+          </liabilities>
+          <legal status="0"/>
+          <special_attention status="0"/>
+          <special_name status="0"/>
+        </summary>
+        <derivatives>
+          <application>
+            <date>12-04-2013</date>
+            <facility code="OTLNFNCE">Other Term Loans/Financing</facility>
+          </application>
+          <facilities>
+            <secure total="0">
+              <outstanding average="0.0" limit="0">0</outstanding>
+            </secure>
+            <unsecure total="3">
+              <outstanding average="0.0" limit="34">70480</outstanding>
+            </unsecure>
+          </facilities>
+          <credit_card avg_usage_6_mths="7.32"/>
+          <oth_revolving_credits avg_usage_6_mths="0.00"/>
+          <charge_card min_usage_12_months="0" max_usage_12_months="0"/>
+          <ptptn total="1"/>
+          <local_lenders total="3"/>
+          <foreign_lenders total="0"/>
+        </derivatives>
+        <applications>
+          <application>
+            <org1/>
+            <org2/>
+            <adta_id/>
+            <date>02-02-2020</date>
+            <app_type/>
+            <status code="P">Pending decision by FI</status>
+            <capacity code="Own">The loan is for this customer only</capacity>
+            <lender_type code="CB">Commercial bank and Islamic bank</lender_type>
+            <my_fgn>M</my_fgn>
+            <amount>187000</amount>
+            <facility code="CRDTCARD">Credit Card</facility>
+          </application>
+          <application>
+            <org1/>
+            <org2/>
+            <adta_id/>
+            <date>30-10-2018</date>
+            <app_type/>
+            <status code="P">Pending decision by FI</status>
+            <capacity code="Own">The loan is for this customer only</capacity>
+            <lender_type code="Oth"/>
+            <my_fgn>M</my_fgn>
+            <amount>256000</amount>
+            <facility code="PCPASCAR">Purchase Of Passenger Cars</facility>
+          </application>
+          <application>
+            <org1/>
+            <org2/>
+            <adta_id/>
+            <date>18-03-2019</date>
+            <app_type/>
+            <status code="P">Pending decision by FI</status>
+            <capacity code="Own">The loan is for this customer only</capacity>
+            <lender_type code="CB">Commercial bank and Islamic bank</lender_type>
+            <my_fgn>M</my_fgn>
+            <amount>440500</amount>
+            <facility code="CRDTCARD">Credit Card</facility>
+          </application>
+        </applications>
+        <accounts>
+          <account>
+            <org1>PT</org1>
+            <org2/>
+            <mdta_id>69010201</mdta_id>
+            <my_fgn>M</my_fgn>
+            <approval_date>12-04-2013</approval_date>
+            <capacity code="Own">The loan is for this customer only</capacity>
+            <lender_type code="Oth"/>
+            <limit>81100</limit>
+            <collaterals>
+              <collateral code="00">
+                <name>Clean</name>
+                <value/>
+              </collateral>
+            </collaterals>
+            <legal>
+              <date/>
+            </legal>
+            <sub_accounts>
+              <sub_account>
+                <facility code="OTLNFNCE">Other Term Loans/Financing</facility>
+                <repay_term code="MTH">Monthly</repay_term>
+                <collaterals/>
+                <cr_positions>
+                  <cr_position>
+                    <status code="O">Outstanding</status>
+                    <balance>59500</balance>
+                    <position_date>28-02-2023</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears>0</mon_arrears>
+                    <inst_amount>690</inst_amount>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-01-2023</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-12-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-11-2022</position_date>
+                    <inst_arrears>31</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-10-2022</position_date>
+                    <inst_arrears>30</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-09-2022</position_date>
+                    <inst_arrears>29</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-08-2022</position_date>
+                    <inst_arrears>28</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-07-2022</position_date>
+                    <inst_arrears>27</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-06-2022</position_date>
+                    <inst_arrears>26</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-05-2022</position_date>
+                    <inst_arrears>25</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-04-2022</position_date>
+                    <inst_arrears>24</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-03-2022</position_date>
+                    <inst_arrears>23</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                </cr_positions>
+              </sub_account>
+            </sub_accounts>
+          </account>
+          <account>
+            <org1/>
+            <org2/>
+            <mdta_id>69010202</mdta_id>
+            <my_fgn>M</my_fgn>
+            <approval_date>19-11-2018</approval_date>
+            <capacity code="Own">The loan is for this customer only</capacity>
+            <lender_type code="CB">Commercial bank and Islamic bank</lender_type>
+            <limit>25000</limit>
+            <collaterals>
+              <collateral code="00">
+                <name>Clean</name>
+                <value/>
+              </collateral>
+            </collaterals>
+            <legal>
+              <date/>
+            </legal>
+            <sub_accounts>
+              <sub_account>
+                <facility code="CRDTCARD">Credit Card</facility>
+                <repay_term code="MTH">Monthly</repay_term>
+                <collaterals/>
+                <cr_positions>
+                  <cr_position>
+                    <status code="O">Outstanding</status>
+                    <balance>10980</balance>
+                    <position_date>28-02-2023</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears>0</mon_arrears>
+                    <inst_amount>0</inst_amount>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-01-2023</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-12-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-11-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-10-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-09-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-08-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-07-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-06-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-05-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-04-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-03-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                </cr_positions>
+              </sub_account>
+            </sub_accounts>
+          </account>
+          <account>
+            <org1/>
+            <org2/>
+            <mdta_id>69010203</mdta_id>
+            <my_fgn>M</my_fgn>
+            <approval_date>20-08-2019</approval_date>
+            <capacity code="Own">The loan is for this customer only</capacity>
+            <lender_type code="Oth"/>
+            <limit>100000</limit>
+            <collaterals>
+              <collateral code="00">
+                <name>Clean</name>
+                <value/>
+              </collateral>
+            </collaterals>
+            <legal>
+              <date/>
+            </legal>
+            <sub_accounts>
+              <sub_account>
+                <facility code="OVRDRAFT">Overdraft</facility>
+                <repay_term code="MTH">Monthly</repay_term>
+                <collaterals/>
+                <cr_positions>
+                  <cr_position>
+                    <status code="O">Outstanding</status>
+                    <balance>0</balance>
+                    <position_date>28-02-2023</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears>0</mon_arrears>
+                    <inst_amount>75000</inst_amount>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-01-2023</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-12-2022</position_date>
+                    <inst_arrears>1</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-11-2022</position_date>
+                    <inst_arrears>1</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-10-2022</position_date>
+                    <inst_arrears>1</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-09-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-08-2022</position_date>
+                    <inst_arrears>1</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-07-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-06-2022</position_date>
+                    <inst_arrears>1</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-05-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>30-04-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                  <cr_position>
+                    <status/>
+                    <balance/>
+                    <position_date>31-03-2022</position_date>
+                    <inst_arrears>0</inst_arrears>
+                    <mon_arrears/>
+                    <inst_amount/>
+                    <rescheduled_date/>
+                    <restructured_date/>
+                  </cr_position>
+                </cr_positions>
+              </sub_account>
+            </sub_accounts>
+          </account>
+        </accounts>
+      </section_ccris>
+      <section_dcheqs title="" data="false"/>
+      <section_ccris_supp title="SECTION CCRIS SUPPLEMENTARY" data="false"/>
+      <section_angkasa title="SECTION ANGKASA" data="false"/>
+      <section_etr_plus title="ETR PLUS" data="false"/>
+    </enquiry>
+  </enq_report>
+</report>

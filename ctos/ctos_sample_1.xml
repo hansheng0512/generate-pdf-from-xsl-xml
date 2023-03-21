@@ -1,0 +1,292 @@
+<report version="5.5.0" xmlns="http://ws.cmctos.com.my/ctosnet/response">
+  <enq_report id="BB-5477-20230309170511" report_type="CTOS" title="CTOS ENQUIRY">
+    <header>
+      <user id="pcdt_xml">parkson credit</user>
+      <company id="XXXX_UAT">XXXX_UAT</company>
+      <account>XXXX_UAT</account>
+      <tel/>
+      <fax/>
+      <enq_date>2023-03-09</enq_date>
+      <enq_time>17:05:11</enq_time>
+      <enq_status code="1">SUCCESS</enq_status>
+    </header>
+    <summary>
+      <enq_sum ptype="I" pcode="" seq="1">
+        <name>XXXX XXXXXX XXXX</name>
+        <ic_lcno/>
+        <nic_brno>810203213199</nic_brno>
+        <stat>0015</stat>
+        <dd_index>9541</dd_index>
+        <fico_index score="0">
+          <fico_factor code="5">There is insufficient credit information to generate a CTOS Score.</fico_factor>
+          <fico_factor code=""/>
+          <fico_factor code=""/>
+          <fico_factor code=""/>
+        </fico_index>
+        <mphone_nos/>
+        <ref_no/>
+        <dist_code>PENANG BRANCH</dist_code>
+        <purpose code="200">Credit evaluation/account opening on subject/directors/shareholder with consent /due diligence on AMLA compliance</purpose>
+        <state code=""/>
+        <country code=""/>
+        <include_consent>0</include_consent>
+        <include_ctos>1</include_ctos>
+        <include_trex>1</include_trex>
+        <include_ccris sum="1">1</include_ccris>
+        <include_dcheq>0</include_dcheq>
+        <include_ccris_supp>0</include_ccris_supp>
+        <include_fico>1</include_fico>
+        <include_sfi>0</include_sfi>
+        <include_ssm>0</include_ssm>
+        <include_ssm_retention>0</include_ssm_retention>
+        <include_angkasa>0</include_angkasa>
+        <include_ie>0</include_ie>
+        <include_ci>0</include_ci>
+        <include_etr_plus>0</include_etr_plus>
+        <confirm_entity/>
+        <enq_status code="1">SUCCESS</enq_status>
+        <enq_code code="4">CTOS FICO Report</enq_code>
+      </enq_sum>
+    </summary>
+    <enquiry seq="1">
+      <section_summary>
+        <ctos>
+          <bankruptcy status="1">
+            <source code="M" name="MDI"/>
+          </bankruptcy>
+          <legal total="0" value="0"/>
+          <legal_personal_capacity total="0" value="0"/>
+          <legal_non_personal_capacity total="0" value="0"/>
+        </ctos>
+        <tr>
+          <trex_ref negative="0" positive="0"/>
+        </tr>
+        <ccris>
+          <application total="0" approved="0" pending="0"/>
+          <facility total="0" arrears="0" value="0"/>
+          <special_attention accounts="0"/>
+        </ccris>
+        <dcheqs entity="0"/>
+      </section_summary>
+      <section_a data="true" title="SECTION A - IDENTITY NUMBER VERIFICATION">
+        <record rpttype="Id" seq="1">
+          <name match="1">XXXX XXXXXX XXXX</name>
+          <ic_lcno/>
+          <nic_brno match="1">810203213199</nic_brno>
+          <addr>XXXX XXXXXX XXXX XXXXXX XXXXXX</addr>
+          <source>SSM</source>
+          <nationality/>
+          <birth_date>03-02-1981</birth_date>
+        </record>
+      </section_a>
+      <section_b title="SECTION B - INTERNAL LIST" data="true">
+        <history seq="1" rpttype="EH" year="2023">
+          <period month="1">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="2">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="3">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="4">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="5">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="6">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="7">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="8">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="9">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="10">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="11">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="12">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+        </history>
+        <history seq="2" rpttype="EH" year="2022">
+          <period month="1">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="2">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="3">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="4">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="5">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="6">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="7">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="8">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="9">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="10">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="11">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+          <period month="12">
+            <entity type="FI" value="0"/>
+            <entity type="NON-FI" value="0"/>
+            <entity type="LAWYER" value="0"/>
+          </period>
+        </history>
+      </section_b>
+      <section_c title="SECTION C - DIRECTORSHIPS AND BUSINESS INTERESTS" data="true">
+        <record rpttype="IF" seq="1">
+          <company_name>COMP NAME SDN BHD</company_name>
+          <additional_registration_no/>
+          <local>2200002</local>
+          <locala>R</locala>
+          <object>PROPERTY</object>
+          <incdate>30-04-2008</incdate>
+          <lastdoc>28-05-2017</lastdoc>
+          <appoint>29-04-2008</appoint>
+          <resign/>
+          <name>XXXX XXXXXX XXXX</name>
+          <ic_lcno/>
+          <nic_brno>810203213199</nic_brno>
+          <addr>XXXX XXXXXX XXXX XXXXXX XXXXXX</addr>
+          <position>DIRECTOR  /  SHARE HOLDER</position>
+          <cpo_date>30-03-2020</cpo_date>
+          <paidup>0</paidup>
+          <shares>100000</shares>
+          <total_shares_percentage>33.33</total_shares_percentage>
+          <remark>DIRECTOR</remark>
+          <protif_after_tax/>
+          <latest_financial_year/>
+          <status>EXISTING</status>
+        </record>
+      </section_c>
+      <section_d title="SECTION D" data="true">
+        <record rpttype="I1" seq="1" status="1">
+          <title>BANKRUPTCY NOTICE ISSUED</title>
+          <special_remark/>
+          <name match="1">XXXX XXXXXX XXXX</name>
+          <alias/>
+          <addr>XXXX XXXXXX XXXX XXXXXX XXXXXX</addr>
+          <ic_lcno/>
+          <nic_brno match="1">810203213199</nic_brno>
+          <case_no>LIG-TST-REC037</case_no>
+          <court_detail>HIGH COURT KUALA LUMPUR</court_detail>
+          <firm>XXXXXXXXX XXXXXXX SDN BHD</firm>
+          <exparte>RHB BANK</exparte>
+          <notice/>
+          <petition/>
+          <order>
+            <date>27-11-2017</date>
+            <source_detail>UTUSAN MSIA 30-11-2017</source_detail>
+          </order>
+          <release/>
+          <gazette_order/>
+          <gazette_notice/>
+          <gazette_petition>GAZETTE-5817777841</gazette_petition>
+          <gazette_discharge/>
+          <hear_date/>
+          <amount>610000</amount>
+          <remark/>
+          <lawyer/>
+          <cedcon/>
+          <settlement/>
+          <latest_status/>
+          <subject_cmt/>
+          <cra_cmt/>
+        </record>
+      </section_d>
+      <section_d2 title="SECTION D2 - SUBJECT AS PLAINTIFF" data="false"/>
+      <section_d4 title="SECTION D4 - NON PERSONAL CAPACITY" data="false"/>
+      <section_ccris title="SECTION CCRIS" data="false"/>
+      <section_dcheqs title="" data="false"/>
+      <section_ccris_supp title="SECTION CCRIS SUPPLEMENTARY" data="false"/>
+      <section_angkasa title="SECTION ANGKASA" data="false"/>
+      <section_etr_plus title="ETR PLUS" data="false"/>
+    </enquiry>
+  </enq_report>
+  <trex status="0">
+    <subject_request>
+      <party_type>I</party_type>
+      <name>XXXX XXXXXX XXXX</name>
+      <iclc/>
+      <nicbr>810203213199</nicbr>
+      <date_requested>09-03-2023 17:05:12</date_requested>
+      <date_completed>09-03-2023 17:05:12</date_completed>
+      <requester_id/>
+      <requester_name/>
+      <requester_comp_code>XXXX_UAT</requester_comp_code>
+      <requester_account>XXXX_UAT</requester_account>
+    </subject_request>
+  </trex>
+</report>
